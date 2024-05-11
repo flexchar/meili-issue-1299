@@ -1,0 +1,23 @@
+{
+    "name": "meili-issue-1299",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "preview": "vite preview",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "@meilisearch/instant-meilisearch": "^0.18.0",
+        "vue": "^3.4.21",
+        "vue-instantsearch": "^4.16.2"
+    },
+    "devDependencies": {
+        "@tsconfig/node20": "^20.1.4",
+        "@types/node": "^20.12.5",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "@vue/tsconfig": "^0.5.1",
+        "npm-run-all2": "^6.1.2",
+        "typescript": "~5.4.0",
+        "vite": "^5.2.8"
+    }
+}
